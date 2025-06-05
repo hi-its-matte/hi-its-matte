@@ -1,6 +1,6 @@
 - 👋  @hi-its-matte
-- 👀 I’m interested in informatic, Discord bots
-- 🌱 I’m currently learning Mit app inventor
+- 👀 I’m interested in informatic, Discord bots, Os creation, html and website developing
+- 🌱 I’m currently learning Python, Bash, Batch, Html, Css
 
 
 <!---
